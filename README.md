@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">An undergrad at UNCC studying Computer Science</h3>
-<img align="right" alt="CodingCat" width="400" src="https://media0.giphy.com/media/maNB0qAiRVAty/giphy.gif?cid=ecf05e4755os342qc2i0s5qyl0h0sea4qlicagfr7w33b5lq&rid=giphy.gif&ct=g">
+<img align="right" alt="CodingCat" width="388" src="https://media0.giphy.com/media/maNB0qAiRVAty/giphy.gif?cid=ecf05e4755os342qc2i0s5qyl0h0sea4qlicagfr7w33b5lq&rid=giphy.gif&ct=g">
 
 
 - 🔭 I’m currently working on [FeralFeed](https://github.com/jadenPete/FeralFeed)
