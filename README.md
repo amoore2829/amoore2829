@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [FeralFeed](https://github.com/jadenPete/FeralFeed)
 
-- 🌱 I’m currently learning **Web Development, Python, Flask, SQL**
+- 🌱 I’m currently learning **Machine Learning, Python, Pandas, mySQL**
 
 - 📫 How to reach me **amoore2829@gmail.com**
 
