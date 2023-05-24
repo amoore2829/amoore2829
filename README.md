@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="right" alt="CodingCat" width="388" src="https://media0.giphy.com/media/maNB0qAiRVAty/giphy.gif?cid=ecf05e4755os342qc2i0s5qyl0h0sea4qlicagfr7w33b5lq&rid=giphy.gif&ct=g">
 
 
-- 🔭 I’m currently working on [FeralFeed](https://github.com/jadenPete/FeralFeed)
+- 🔭 I’m currently working as an RA for the HPC Lab at UNCC
 
 - 🌱 I’m currently learning **Machine Learning, Python, Pandas, mySQL**
 
