@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as an RA for the HPC Lab at UNCC
 
-- 🌱 I’m currently learning **Machine Learning, Python, Pandas, mySQL**
+- 🌱 I’m currently learning **Machine Learning, Python**
 
 - 📫 How to reach me **amoore2829@gmail.com**
 
