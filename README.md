@@ -3,7 +3,7 @@
 
 <img align="right" alt="CodingCat" width="388" src="https://media0.giphy.com/media/maNB0qAiRVAty/giphy.gif?cid=ecf05e4755os342qc2i0s5qyl0h0sea4qlicagfr7w33b5lq&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **Operating Systems & Networking, Human-Centered Design, Secure Programming and Pen Testing**
+- 🌱 I’m currently learning **Operating Systems & Networking, Human-Centered Design, Game Development Secure Programming and Pen Testing**
 
 - 📫 How to reach me **amoore2829@gmail.com**
 
